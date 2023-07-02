@@ -8,14 +8,11 @@
 
 ### Description
 
-- Création d’une boîte à outils permettant à l’utilisateur de 
-réaliser une conception de l’intérieur d’un appartement en 
-termes de décoration. 
-- Support de différents styles de 
-décoration et d'une intelligence permettant de générer 
-automatiquement des résultats et de les transformer en 
-différents styles.
+- Ma Todolist en JavaScript est une application web simple qui permet aux utilisateurs de créer et de gérer une liste de tâches à faire. L'objectif principal était de mettre en pratique mes connaissances en JavaScript en développant une application interactive et utile.
 
+- L'interface utilisateur est minimaliste et conviviale. Lorsque les utilisateurs visitent la page, ils sont accueillis par une brève description de la Todolist et une liste vide. Ils peuvent ensuite utiliser le formulaire situé en haut de la page pour ajouter de nouvelles tâches à la liste.
+
+- Support desktop / tablette / mobile
 ### Technologies
 
     1- HTML5 / CSS3
