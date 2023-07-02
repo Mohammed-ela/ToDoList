@@ -21,4 +21,4 @@
 
 ### Présentation
 
-[Vidéo de presentation](https://vimeo.com/841604022?share=copy)
+[Regardez la vidéo de présentation](https://vimeo.com/841604022?share=copy)
